@@ -1,0 +1,32 @@
+body {
+  font-family: 'Segoe UI', sans-serif;
+  background-color: #fdf6f0; /* soft beige background */
+  margin: 0;
+  padding: 0;
+}
+
+.container {
+  max-width: 800px;
+  margin: 40px auto;
+  padding: 0 20px;
+}
+
+.order-card {
+  background: #ffffff;
+  padding: 20px;
+  margin: 15px 0;
+  border-radius: 10px;
+  box-shadow: 0 4px 12px rgba(0, 0, 0, 0.1);
+  border-left: 5px solid #8b5e3c; /* brown accent */
+}
+
+.order-card h3 {
+  margin-top: 0;
+  color: #5c4033; /* dark brown */
+}
+
+.order-card p {
+  margin: 5px 0;
+  color: #333;
+  line-height: 1.5;
+}
