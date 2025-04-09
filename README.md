@@ -1,9 +1,15 @@
 🍽️ Food Ordering Website – CampusCravings
-A full-stack food ordering platform designed for students to place food orders and employees to manage and view orders. Built with Spring Boot (Java) backend and a responsive HTML/CSS/JavaScript frontend.
+
+A full-stack food ordering platform designed for students to place food orders and employees to manage and view orders. 
+
+Built with Spring Boot (Java) backend and a responsive HTML/CSS/JavaScript frontend.
+
 food-ordering-website/
 ├── foodie-backend/         # Spring Boot backend (Java, PostgreSQL)
 └── foodie-frontend/        # HTML/CSS/JS frontend
+
 🔧 Technologies Used
+
 Backend:
 Java + Spring Boot
 Maven
